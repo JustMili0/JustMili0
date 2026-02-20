@@ -1,31 +1,22 @@
 <div>
-  <div style="text-align: center;">
-    <h1 style="margin-top: 0; margin-bottom: 0; display: flex; align-items: center; justify-content: center; gap: 8px;">
-      <img src="https://i.postimg.cc/D0HtSkfQ/wut.png" width="50" height="50">
-      JustMili
-    </h1>
-    <center><small style="color:#777; margin-top: 0;">she/her, programmer, vtuber, a dumbass</small></center>
-  </div>
+  <p style="margin: 0px; display: flex; align-items: center;gap: 8px; ">
+    <img src="https://i.postimg.cc/D0HtSkfQ/wut.png" width="50" height="50">
+    JustMili
+  </p>
+  <small style="color:#777; margin-top: 2px;">she/her, programmer, vtuber, a dumbass</small>
 
   <hr>
 
   <div>
-    <p style="margin-top: 2px;">
-      Hi! I'm Millie, a catgirl variety png/vtuber! (Or at least trying to be..)
-    </p>
-    <p style="margin-top: -18px;">
-      Besides streaming, I also code a little. Just for example;
-    </p>
-    <p style="margin-top: -18px;">
-      With my wonderful dev team we've made mods such as True End, Create: Totem Factory - Postmortal, Create: Totem Factory (a collab update), Under The Stars, Avaritia X Create etc.
-    </p>
-    <p style="margin-top: -18px;">
-      But also some of my own Minecraft mods are Always Shield and Shulkers In Bundles.
-    </p>
-    <p style="margin-top: -18px;">‎</p>
-    <p style="margin-top: -18px;">
-      Ofc that's not the only things I've coded in my entire life but some projects are better to stay unreleased.. for now :)
+    <p style="margin: -16px; margin-left: 4px;">
+      Hi! I'm Millie, a catgirl variety png/vtuber! (Or at least trying to be..)<br>
+      <br>
+      Besides streaming, I also code a little - mainly, I mod Minecraft.<br>
+      I have some of my own QoL Minecraft mods as well as some bigger project I develop with my team ^^<br>
+      <br>
+      I do also *try* to do some HTML but, it doesn't always go as planned... But oh well!<br>
+      Most of my projects that I made were just to make my own life a little easier :3
     </p>
   </div>
-
   <hr>
+</div>
