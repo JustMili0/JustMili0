@@ -7,5 +7,7 @@
 
   <hr>
 
-  <!-- I'll write more one day -->
+  <p>
+    I code stuff, primarly modding Minecraft
+  </p>
 </div>
